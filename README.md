@@ -3,6 +3,7 @@
 ## **Overview**
 This project predicts a student's performance based on historical data using a machine learning model. The prediction leverages a Linear Regression model served via a Flask API. The project aims to assist educators and institutions in identifying students who may need additional support to improve their academic outcomes.
 
+You can access the deployed application here: **[Student Performance Predictor](https://student-performance-predictor-bsa6.onrender.com/)**.
 ---
 
 ## **1. Dataset Details**
