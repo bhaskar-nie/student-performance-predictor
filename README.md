@@ -80,7 +80,7 @@ The project trained and evaluated several models:
 ### **Setup Instructions**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/student-performance-predictor.git
+   git clone https://github.com/bhaskar-nie/student-performance-predictor.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -111,7 +111,7 @@ The project trained and evaluated several models:
 ## **5. Navigating the Web Application**
 
 ### **Home Page**
-- **URL**: `http://127.0.0.1:1000/`
+- **URL**: `https://student-performance-predictor-bsa6.onrender.com`
 - The **Home Page** introduces the project and its purpose. It provides navigation links to the **Insights Page** and **Prediction Page**.
 - **Screenshots**:
     
@@ -122,7 +122,7 @@ The project trained and evaluated several models:
 ---
 
 ### **Insights Page**
-- **URL**: `http://127.0.0.1:1000/insights`
+- **URL**: `https://student-performance-predictor-bsa6.onrender.com/insights`
 - The **Insights Page** provides visualizations of student performance trends, relationships between features, and distribution of test scores.
 - **Features**:
   - Graphs and charts for test score distributions.
@@ -136,7 +136,7 @@ The project trained and evaluated several models:
 ---
 
 ### **Prediction Page**
-- **URL**: `http://127.0.0.1:1000/predictdata`
+- **URL**: `https://student-performance-predictor-bsa6.onrender.com/predictdata`
 - The **Prediction Page** allows users to input student details and test scores to receive a predicted performance score.
 - **Features**:
   - Form fields for all required input data.
