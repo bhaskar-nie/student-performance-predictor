@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Performance Dataset Exploratory Analysis Dashboard</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
+    <style>
+        body {
+            background-color: #121212;
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #f5f5f5;
+        }
+
+        .navbar {
+            background-color: #1e1e1e;
+            padding: 0rem;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+        
+
+        .nav-link {
+            color: #fff;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            border-radius: 30px;
+            transition: all 0.3s ease;
+        }
+
+        .nav-link:hover {
+            background-color: #3700b3;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 40px auto;
+            padding: 20px;
+        }
+
+        .section {
+            background-color: #1e1e1e;
+            padding: 30px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+        }
+
+        h1, h2, h3 {
+            color: #ffffff;
+            margin-bottom: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 32px;
+            margin-bottom: 40px;
+        }
+
+        .chart-container {
+            background-color: #2a2a2a;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+            height: 300px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background-color: #2a2a2a;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border: 1px solid #444;
+        }
+
+        th {
+            background-color: #333;
+            color: #fff;
+        }
+
+        .highlight {
+            background-color: #333;
+            padding: 15px;
+            border-left: 4px solid #6200ea;
+            margin: 10px 0;
+            border-radius: 0 8px 8px 0;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+            padding-left: 20px;
+            position: relative;
+        }
+
+        li:before {
+            content: "•";
+            color: #6200ea;
+            font-weight: bold;
+            position: absolute;
+            left: 0;
+        }
+
+        .stat {
+            color: #ff4081;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="container">
+            <a class="nav-link" href="/">Home</a>
+        </div>
+    </nav>
+    <div class="container">
+        <h1>Student Performance Dataset Exploratory Analysis Dashboard</h1>
+
+        <!-- Dataset Features -->
+        <section class="section">
+            <h2>1. Dataset Features</h2>
+            <table>
+                <tr>
+                    <th>Category</th>
+                    <th>Features</th>
+                    <th>Values</th>
+                </tr>
+                <tr>
+                    <td rowspan="5">Categorical Features</td>
+                    <td>Gender</td>
+                    <td>Male/Female</td>
+                </tr>
+                <tr>
+                    <td>Learning Support</td>
+                    <td>Limited Tutoring, Occasional Mentoring, Standard School Support, Private Coaching, Elite Academic Support</td>
+                </tr>
+                <tr>
+                    <td>Parent's Education</td>
+                    <td>Undergraduate, Associate, Bachelor, Master's Degree, High School, Below High School</td>
+                </tr>
+                <tr>
+                    <td>Had Lunch</td>
+                    <td>Yes/No</td>
+                </tr>
+                <tr>
+                    <td>Course Completed</td>
+                    <td>Complete/None</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">Numerical Features</td>
+                    <td>Percentage in Test 1</td>
+                    <td>Score achieved in first test</td>
+                </tr>
+                <tr>
+                    <td>Percentage in Test 2</td>
+                    <td>Score achieved in second test</td>
+                </tr>
+                <tr>
+                    <td>Percentage in Test 3</td>
+                    <td>Score achieved in third test</td>
+                </tr>
+            </table>
+        </section>
+
+        <!-- Data Quality -->
+        <section class="section">
+            <h2>2. Data Quality Check</h2>
+            <table>
+                <tr>
+                    <th>Check Type</th>
+                    <th>Result</th>
+                </tr>
+                <tr>
+                    <td>Missing Values</td>
+                    <td>No missing values present</td>
+                </tr>
+                <tr>
+                    <td>Duplicate Values</td>
+                    <td>No duplicate values present</td>
+                </tr>
+            </table>
+        </section>
+
+        <!-- Numerical Insights -->
+        <section class="section">
+            <h2>3. Numerical Insights</h2>
+            <h3>Statistical Overview</h3>
+            <table>
+                <tr>
+                    <th>Metric</th>
+                    <th>Range</th>
+                </tr>
+                <tr>
+                    <td>Mean</td>
+                    <td><span class="stat">66 - 69.16</span></td>
+                </tr>
+                <tr>
+                    <td>Standard Deviation</td>
+                    <td><span class="stat">14.6 - 15.19</span></td>
+                </tr>
+            </table>
+
+            <h3>Performance Metrics</h3>
+            <table>
+                <tr>
+                    <th>Test</th>
+                    <th>Full Marks</th>
+                    <th>Below 40%</th>
+                </tr>
+                <tr>
+                    <td>Test 1</td>
+                    <td>17</td>
+                    <td>27</td>
+                </tr>
+                <tr>
+                    <td>Test 2</td>
+                    <td>14</td>
+                    <td>35</td>
+                </tr>
+                <tr>
+                    <td>Test 3</td>
+                    <td>7</td>
+                    <td>50</td>
+                </tr>
+            </table>
+
+            <div class="chart-container">
+                <canvas id="testScoresChart"></canvas>
+            </div>
+
+            <h3>Score Distributions</h3>
+            <ul>
+                <li>Most students score between <span class="stat">60–80</span> in Test 3</li>
+                <li>Most students score between <span class="stat">50–80</span> in Test 1 and Test 2</li>
+            </ul>
+        </section>
+
+        <!-- Categorical Insights -->
+        <section class="section">
+            <h2>4. Categorical Insights</h2>
+            <table>
+                <tr>
+                    <th>Category</th>
+                    <th>Distribution</th>
+                </tr>
+                <tr>
+                    <td>Gender</td>
+                    <td>Female: <span class="stat">518 (52%)</span>, Male: <span class="stat">482 (48%)</span></td>
+                </tr>
+                <tr>
+                    <td>Learning Support</td>
+                    <td>Most: Standard School Support, Private Coaching<br>
+                        Least: Limited Tutoring<br>
+                        Greatest: Occasional Mentoring</td>
+                </tr>
+                <tr>
+                    <td>Parent's Education</td>
+                    <td>Largest group: Bachelor's Level, followed by Undergraduate</td>
+                </tr>
+                <tr>
+                    <td>Lunch Status</td>
+                    <td>More students had lunch before exams than those who did not</td>
+                </tr>
+                <tr>
+                    <td>Course Completion</td>
+                    <td>Greater number have not completed the preparation course</td>
+                </tr>
+            </table>
+        </section>
+
+        <!-- Key Observations -->
+        <section class="section">
+            <h2>5. Key Observations</h2>
+            <table>
+                <tr>
+                    <th>Category</th>
+                    <th>Observations</th>
+                </tr>
+                <tr>
+                    <td>Gender Performance</td>
+                    <td>
+                        - Female students perform better overall<br>
+                        - Females lead in pass percentages and top scores
+                    </td>
+                </tr>
+                <tr>
+                    <td>Impact of Lunch</td>
+                    <td>
+                        - Better performance when lunch taken before exam<br>
+                        - Effect applies to both genders
+                    </td>
+                </tr>
+                <tr>
+                    <td>Parental Education</td>
+                    <td>
+                        - No significant effect on performance<br>
+                        - No observable effect specifically on female students
+                    </td>
+                </tr>
+                <tr>
+                    <td>Learning Support</td>
+                    <td>
+                        - Limited Tutoring and Occasional Mentoring groups perform poorly<br>
+                        - Elite Academic Support students perform best<br>
+                        - Trend persists across genders
+                    </td>
+                </tr>
+            </table>
+        </section>
+
+        <!-- Conclusions -->
+        <section class="section">
+            <h2>6. Conclusions</h2>
+            <table>
+                <tr>
+                    <th>Category</th>
+                    <th>Details</th>
+                </tr>
+                <tr>
+                    <td>Positive Factors</td>
+                    <td>
+                        - Having lunch before exams<br>
+                        - Completing test preparation course<br>
+                        - Receiving Elite Academic Support<br>
+                        - Being a female student
+                    </td>
+                </tr>
+                <tr>
+                    <td>Minimal Impact Factors</td>
+                    <td>- Parental education level</td>
+                </tr>
+                <tr>
+                    <td>Recommendations</td>
+                    <td>
+                        - Encourage course completion<br>
+                        - Ensure students have meals before exams<br>
+                        - Improve support for Limited Tutoring and Occasional Mentoring students
+                    </td>
+                </tr>
+            </table>
+        </section>
+    </div>
+
+    <script>
+        new Chart(document.getElementById('testScoresChart').getContext('2d'), {
+            type: 'bar',
+            data: {
+                labels: ['Test 1', 'Test 2', 'Test 3'],
+                datasets: [
+                    {
+                        label: 'Perfect Scores',
+                        data: [17, 14, 7],
+                        backgroundColor: '#6200ea',
+                    },
+                    {
+                        label: 'Below 40%',
+                        data: [27, 35, 50],
+                        backgroundColor: '#ff4081',
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'top',
+                        labels: { color: '#fff' }
+                    },
+                    title: {
+                        display: true,
+                        text: 'Test Performance Distribution',
+                        color: '#fff'
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        grid: { color: '#333' },
+                        ticks: { color: '#fff' }
+                    },
+                    x: {
+                        grid: { color: '#333' },
+                        ticks: { color: '#fff' }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

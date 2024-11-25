@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Upcoming Exam Performance Prediction</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        /* General Body Styling */
+        body {
+            background-color: #121212;
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #f5f5f5;
+            line-height: 1.6;
+        }
+
+        /* Navbar Styling */
+        .navbar {
+            background-color: #1e1e1e;
+            padding: 1rem;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+
+        .nav-link {
+            color: #fff;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            border-radius: 30px;
+            transition: all 0.3s ease;
+        }
+
+        .nav-link:hover {
+            background-color: #3700b3;
+        }
+
+        /* Main Container */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Form Styling */
+        .form-label {
+            color: #e0e0e0;
+            margin-bottom: 0.5rem;
+            display: block;
+        }
+
+        .form-select, .form-control {
+            width: 100%;
+            padding: 0.75rem;
+            margin-bottom: 1rem;
+            background-color: #2a2a2a;
+            border: 1px solid #444;
+            border-radius: 8px;
+            color: #e0e0e0;
+            transition: all 0.3s ease;
+        }
+
+        .form-select:focus, .form-control:focus {
+            outline: none;
+            border-color: #6200ea;
+            box-shadow: 0 0 0 2px rgba(98, 0, 234, 0.2);
+        }
+
+        /* Button Styling */
+        .btn {
+            background-color: #6200ea;
+            color: white;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 30px;
+            cursor: pointer;
+            font-size: 1.1em;
+            transition: all 0.3s ease;
+            width: 100%;
+            margin-top: 1rem;
+        }
+
+        .btn:hover {
+            background-color: #3700b3;
+            transform: translateY(-2px);
+        }
+
+        /* Results Section */
+        .results {
+            background-color: #1e1e1e;
+            padding: 30px;
+            border-radius: 12px;
+            margin-top: 30px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+        }
+
+        h1, h2 {
+            color: #ff4081;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        /* Chart Container */
+        canvas {
+            background-color: #2a2a2a;
+            border-radius: 12px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="container">
+            <a class="nav-link" href="/">Home</a>
+        </div>
+    </nav>
+
+    <!-- Main Container -->
+    <div class="container">
+        <h1>Predict the Test 3 Marks of Student</h1>
+        
+        <form action="{{ url_for('predict_datapoint') }}" method="POST">
+            <!-- Gender Field -->
+            <div class="form-group">
+                <label for="gender" class="form-label">Gender</label>
+                <select id="gender" name="gender" class="form-select" required>
+                    <option value="" disabled selected>Select your Gender</option>
+                    <option value="female">Female</option>
+                    <option value="male">Male</option>
+                </select>
+            </div>
+
+            <!-- Learning Support Field -->
+            <div class="form-group">
+                <label for="learning_support" class="form-label">Learning Support</label>
+                <select id="learning_support" name="learning_support" class="form-select" required>
+                    <option value="" disabled selected>Select your level of Learning Support</option>
+                    <option value="Limited Tutoring">Limited Tutoring</option>
+                    <option value="Occasional Mentoring">Occasional Mentoring</option>
+                    <option value="Standard School Support">Standard School Support</option>
+                    <option value="Private Coaching">Private Coaching</option>
+                    <option value="Elite Academic Support">Elite Academic Support</option>
+                </select>
+            </div>
+
+            <!-- Parent Education Field -->
+            <div class="form-group">
+                <label for="parent_education" class="form-label">Parental Level of Education</label>
+                <select id="parent_education" name="parent_education" class="form-select" required>
+                    <option value="" disabled selected>Select Parent Education</option>
+                    <option value="Bachelor">Bachelor</option>
+                    <option value="Undergraduate">Undergraduate</option>
+                    <option value="Post Graduate">Post Graduate</option>
+                    <option value="Associate">Associate</option>
+                    <option value="High School">High School</option>
+                    <option value="Below High School">Below High School</option>
+                </select>
+            </div>
+
+            <!-- Lunch Field -->
+            <div class="form-group">
+                <label for="had_lunch" class="form-label">Do you have lunch before exams?</label>
+                <select id="had_lunch" name="had_lunch" class="form-select" required>
+                    <option value="" disabled selected>Select Yes or No</option>
+                    <option value="YES">Yes</option>
+                    <option value="NO">No</option>
+                </select>
+            </div>
+
+            <!-- Course Completed Field -->
+            <div class="form-group">
+                <label for="course_completed" class="form-label">Course Completed</label>
+                <select id="course_completed" name="course_completed" class="form-select" required>
+                    <option value="" disabled selected>Select whether you have completed the course assigned?</option>
+                    <option value="none">None</option>
+                    <option value="completed">Completed</option>
+                </select>
+            </div>
+
+            <!-- Test 1 Percentage -->
+            <div class="form-group">
+                <label for="percentage_in_test1" class="form-label">Percentage in Test 1 (out of 100)</label>
+                <input id="percentage_in_test1" type="number" name="percentage_in_test1" class="form-control" placeholder="Enter your Test 1 Percentage" min="0" max="100" required />
+            </div>
+
+            <!-- Test 2 Percentage -->
+            <div class="form-group">
+                <label for="percentage_in_test2" class="form-label">Percentage in Test 2 (out of 100)</label>
+                <input id="percentage_in_test2" type="number" name="percentage_in_test2" class="form-control" placeholder="Enter your Test 2 Percentage" min="0" max="100" required />
+            </div>
+
+            <!-- Submit Button -->
+            <button type="submit" class="btn">Predict your Test 3 Score</button>
+        </form>
+
+        <!-- Results Display -->
+        {% if results %}
+        <div class="results">
+            <h2>The predicted Test 3 score is: {{ results }}</h2>
+
+            <!-- Graph Container -->
+            <div class="chart-container">
+                <canvas id="performanceChart"></canvas>
+            </div>
+
+            <!-- Chart.js Script -->
+            <script>
+                const ctx = document.getElementById('performanceChart').getContext('2d');
+                const performanceChart = new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels: ['Test 1', 'Test 2', 'Test 3'],
+                        datasets: [{
+                            label: 'Percentage Scores',
+                            data: [{{ percentage_in_test1 }}, {{ percentage_in_test2 }}, {{ results }}],
+                            backgroundColor: ['#6200ea', '#ff4081', '#00e5ff'],
+                            borderColor: ['#3700b3', '#c51162', '#00b8d4'],
+                            borderWidth: 1
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        plugins: {
+                            legend: {
+                                display: true,
+                                position: 'top',
+                                labels: {
+                                    color: '#e0e0e0'
+                                }
+                            },
+                            title: {
+                                display: true,
+                                text: 'Performance Analysis',
+                                color: '#e0e0e0'
+                            }
+                        },
+                        scales: {
+                            y: {
+                                beginAtZero: true,
+                                grid: {
+                                    color: '#444'
+                                },
+                                ticks: {
+                                    color: '#e0e0e0'
+                                }
+                            },
+                            x: {
+                                grid: {
+                                    color: '#444'
+                                },
+                                ticks: {
+                                    color: '#e0e0e0'
+                                }
+                            }
+                        }
+                    }
+                });
+            </script>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
