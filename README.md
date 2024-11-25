@@ -113,8 +113,11 @@ The project trained and evaluated several models:
 ### **Home Page**
 - **URL**: `http://127.0.0.1:1000/`
 - The **Home Page** introduces the project and its purpose. It provides navigation links to the **Insights Page** and **Prediction Page**.
-- **Screenshot**:  
-![Home Page Screenshot](#) _(Add actual image link or file)_  
+- **Screenshots**:
+    
+![Home Page Screenshot](https://github.com/user-attachments/assets/375bcb35-d70f-4306-a563-0d8451c9cee5)
+
+![Home Page Screenshot2](https://github.com/user-attachments/assets/cbbea74a-d2c7-460a-af3a-7ac6f01dc2d0)
 
 ---
 
@@ -124,19 +127,23 @@ The project trained and evaluated several models:
 - **Features**:
   - Graphs and charts for test score distributions.
   - Insights into categorical feature impacts on performance.
-- **Screenshot**:  
-![Insights Page Screenshot](#) _(Add actual image link or file)_  
+- **Screenshots**:
+  
+![Insights Page Screenshot](https://github.com/user-attachments/assets/89b0eee0-5588-412f-b02e-fdaed2c5092e)
+
+![Insights Page Screenshot2](https://github.com/user-attachments/assets/d65f6f62-68e4-4092-b796-5c44bffdbff3)
 
 ---
 
 ### **Prediction Page**
-- **URL**: `http://127.0.0.1:1000/predict`
+- **URL**: `http://127.0.0.1:1000/predictdata`
 - The **Prediction Page** allows users to input student details and test scores to receive a predicted performance score.
 - **Features**:
   - Form fields for all required input data.
   - Displays the predicted score and a bar graph visualization.
-- **Screenshot**:  
-![Prediction Page Screenshot](#) _(Add actual image link or file)_  
+- **Screenshot**:
+   
+![Prediction Page Screenshot](https://github.com/user-attachments/assets/bd5bd026-d390-4ed7-a3aa-cae2082abd94)
 
 ---
 
