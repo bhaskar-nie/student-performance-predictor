@@ -52,7 +52,7 @@ The project trained and evaluated several models:
 {
   "gender": "Female",
   "learning_support": "Private Coaching",
-  "parent_education": "Bachelor's",
+  "parent_education": "Bachelor",
   "had_lunch": "Yes",
   "course_completed": "Complete",
   "percentage_in_test1": 78,
@@ -76,19 +76,6 @@ The project trained and evaluated several models:
 ---
 
 ## **4. Project Setup**
-
-### **Dependencies**
-- **Python**: 3.10
-- Libraries:
-  - pandas
-  - numpy
-  - seaborn
-  - matplotlib
-  - scikit-learn
-  - catboost
-  - xgboost
-  - Flask
-  - dill
 
 ### **Setup Instructions**
 1. Clone the repository:
