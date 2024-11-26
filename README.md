@@ -1,9 +1,9 @@
-# **Student Performance Prediction Using Flask and Machine Learning**
+# **Student Upcoming Test Marks Prediction Using Flask and Machine Learning**
 
 ## **Overview**
-This project predicts a student's performance based on historical data using a machine learning model. The prediction leverages a Linear Regression model served via a Flask API. The project aims to assist educators and institutions in identifying students who may need additional support to improve their academic outcomes.
+This project predicts a student's upcoming test marks based on historical data using a machine learning model. The prediction leverages a Linear Regression model served via a Flask API. The project aims to assist educators and institutions in identifying students who may need additional support to improve their academic outcomes.
 
-You can access the deployed application here: **[Student Performance Predictor](https://student-performance-predictor-bsa6.onrender.com/)**.
+You can access the deployed application here: **[Student Upcoming Test Marks Predictor](https://student-performance-predictor-bsa6.onrender.com/)**.
 ---
 
 ## **1. Dataset Details**
@@ -68,6 +68,11 @@ The project trained and evaluated several models:
   "graph": "data:image/png;base64,..."
 }
 ```
+#### **Screenshots**:
+
+![Student Performance Graph Screenshot](https://github.com/user-attachments/assets/3e9b0fc5-abb0-4ff7-a16f-934abc0b8c4a)    
+
+![POSTMAN Screenshot](https://github.com/user-attachments/assets/99352d3c-32f3-488b-89ec-ffe7aa27c523)
 
 ### **API Error Handling**
 - **Invalid Inputs**: Returns error messages for missing or incorrect data.
