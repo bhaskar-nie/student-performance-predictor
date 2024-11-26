@@ -165,11 +165,11 @@ Please refer to the uploaded PDF (`API_Testing_Documentation.pdf`) in the reposi
 ### **Steps**
 1. Build the Docker image:
    ```bash
-   docker build -t student-performance-predictor .
+   docker build -t my-ml-app .
    ```
 2. Run the container:
    ```bash
-   docker run -p 1000:1000 student-performance-predictor
+   docker run -p 1000:1000 my-ml-app
    ```
 3. Access the web application at `http://127.0.0.1:1000/`.
 
