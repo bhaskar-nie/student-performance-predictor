@@ -70,9 +70,9 @@ The project trained and evaluated several models:
 ```
 #### **Screenshots**:
 
-![Student Performance Graph Screenshot](https://github.com/user-attachments/assets/3e9b0fc5-abb0-4ff7-a16f-934abc0b8c4a)    
+![Student Performance Graph Screenshot](https://github.com/user-attachments/assets/df834208-a61b-4097-ab6a-60ced9f3c4b4)
 
-![POSTMAN Screenshot](https://github.com/user-attachments/assets/99352d3c-32f3-488b-89ec-ffe7aa27c523)
+![POSTMAN Screenshot](https://github.com/user-attachments/assets/5c69520e-356c-48de-8dc2-5711caeafe25)
 
 ### **API Error Handling**
 - **Invalid Inputs**: Returns error messages for missing or incorrect data.
@@ -121,9 +121,9 @@ The project trained and evaluated several models:
 - The **Home Page** introduces the project and its purpose. It provides navigation links to the **Insights Page** and **Prediction Page**.
 - **Screenshots**:
     
-![Home Page Screenshot](https://github.com/user-attachments/assets/375bcb35-d70f-4306-a563-0d8451c9cee5)
+![Home Page Screenshot](https://github.com/user-attachments/assets/70b99710-e16b-4da4-adb3-9bc2577c166f)
 
-![Home Page Screenshot2](https://github.com/user-attachments/assets/cbbea74a-d2c7-460a-af3a-7ac6f01dc2d0)
+![Home Page Screenshot2](https://github.com/user-attachments/assets/e2c3a7d1-c6ea-4b76-883c-503531c53469)
 
 ---
 
@@ -135,9 +135,9 @@ The project trained and evaluated several models:
   - Insights into categorical feature impacts on performance.
 - **Screenshots**:
   
-![Insights Page Screenshot](https://github.com/user-attachments/assets/89b0eee0-5588-412f-b02e-fdaed2c5092e)
+![Insights Page Screenshot](https://github.com/user-attachments/assets/944c1868-199f-482d-99f8-7d29787b1527)
 
-![Insights Page Screenshot2](https://github.com/user-attachments/assets/d65f6f62-68e4-4092-b796-5c44bffdbff3)
+![Insights Page Screenshot2](https://github.com/user-attachments/assets/98a1ad01-9991-4c7a-9e87-ff6c14c8f650)
 
 ---
 
@@ -149,7 +149,7 @@ The project trained and evaluated several models:
   - Displays the predicted score and a bar graph visualization.
 - **Screenshot**:
    
-![Prediction Page Screenshot](https://github.com/user-attachments/assets/bd5bd026-d390-4ed7-a3aa-cae2082abd94)
+![Prediction Page Screenshot](https://github.com/user-attachments/assets/9ca98513-d959-467a-b330-b49d1720a06b)
 
 ---
 
