@@ -9,8 +9,8 @@ class PredictPipeline:
 
     def predict(self, features):
         # Load model and preprocessor from saved locations
-        model_path = os.path.join("IPYNB Notebooks", "linear_regression_model.pkl")
-        preprocessor_path = os.path.join('IPYNB Notebooks', 'preprocessor_linear_regression.pkl')
+        model_path = os.path.join("pkl files", "linear_regression_model.pkl")
+        preprocessor_path = os.path.join('pkl files', 'preprocessor_linear_regression.pkl')
 
         # Load the model and preprocessor using load_object function
         model = load_object(file_path=model_path)
