@@ -1,0 +1,1001 @@
+Gender,Learning Support,Parent's Education,Had Lunch,Course Completed,Percentage in Test 1,Percentage in Test 2,Percentage in Test 3
+female,Occasional Mentoring,Bachelor,YES,none,72,72,74
+female,Standard School Support,Undergraduate,YES,completed,69,90,88
+female,Occasional Mentoring,Post Graduate,YES,none,90,95,93
+male,Limited Tutoring,Associate,NO,none,47,57,44
+male,Standard School Support,Undergraduate,YES,none,76,78,75
+female,Occasional Mentoring,Associate,YES,none,71,83,78
+female,Occasional Mentoring,Undergraduate,YES,completed,88,95,92
+male,Occasional Mentoring,Undergraduate,NO,none,40,43,39
+male,Private Coaching,High School,NO,completed,64,64,67
+female,Occasional Mentoring,High School,NO,none,38,60,50
+male,Standard School Support,Associate,YES,none,58,54,52
+male,Private Coaching,Associate,YES,none,40,52,43
+female,Occasional Mentoring,High School,YES,none,65,81,73
+male,Limited Tutoring,Undergraduate,YES,completed,78,72,70
+female,Limited Tutoring,Post Graduate,YES,none,50,53,58
+female,Standard School Support,Below High School,YES,none,69,75,78
+male,Standard School Support,High School,YES,none,88,89,86
+female,Occasional Mentoring,Below High School,NO,none,18,32,28
+male,Standard School Support,Post Graduate,NO,completed,46,42,46
+female,Standard School Support,Associate,NO,none,54,58,61
+male,Private Coaching,High School,YES,none,66,69,63
+female,Occasional Mentoring,Undergraduate,NO,completed,65,75,70
+male,Private Coaching,Undergraduate,YES,none,44,54,53
+female,Standard School Support,Below High School,YES,none,69,73,73
+male,Private Coaching,Bachelor,NO,completed,74,71,80
+male,Limited Tutoring,Post Graduate,NO,none,73,74,72
+male,Occasional Mentoring,Undergraduate,YES,none,69,54,55
+female,Standard School Support,Bachelor,YES,none,67,69,75
+male,Standard School Support,High School,YES,none,70,70,65
+female,Private Coaching,Post Graduate,YES,none,62,70,75
+female,Private Coaching,Undergraduate,YES,none,69,74,74
+female,Occasional Mentoring,Undergraduate,YES,none,63,65,61
+female,Elite Academic Support,Post Graduate,NO,none,56,72,65
+male,Private Coaching,Undergraduate,YES,none,40,42,38
+male,Elite Academic Support,Undergraduate,YES,none,97,87,82
+male,Elite Academic Support,Associate,YES,completed,81,81,79
+female,Private Coaching,Associate,YES,none,74,81,83
+female,Private Coaching,Below High School,NO,none,50,64,59
+female,Private Coaching,Associate,NO,completed,75,90,88
+male,Occasional Mentoring,Associate,NO,none,57,56,57
+male,Standard School Support,Associate,NO,none,55,61,54
+female,Standard School Support,Associate,YES,none,58,73,68
+female,Occasional Mentoring,Associate,YES,none,53,58,65
+male,Occasional Mentoring,Undergraduate,NO,completed,59,65,66
+female,Elite Academic Support,Associate,NO,none,50,56,54
+male,Occasional Mentoring,Associate,YES,none,65,54,57
+female,Limited Tutoring,Associate,YES,completed,55,65,62
+female,Standard School Support,High School,YES,none,66,71,76
+female,Private Coaching,Associate,NO,completed,57,74,76
+male,Standard School Support,High School,YES,completed,82,84,82
+male,Elite Academic Support,Undergraduate,YES,none,53,55,48
+male,Elite Academic Support,Associate,NO,completed,77,69,68
+male,Standard School Support,Undergraduate,YES,none,53,44,42
+male,Private Coaching,High School,YES,none,88,78,75
+female,Standard School Support,Below High School,NO,completed,71,84,87
+female,Standard School Support,High School,NO,none,33,41,43
+female,Elite Academic Support,Associate,YES,completed,82,85,86
+male,Private Coaching,Associate,YES,none,52,55,49
+male,Private Coaching,Undergraduate,YES,completed,58,59,58
+female,Standard School Support,Below High School,NO,none,0,17,10
+male,Elite Academic Support,Bachelor,NO,completed,79,74,72
+male,Limited Tutoring,Below High School,NO,none,39,39,34
+male,Limited Tutoring,Associate,NO,none,62,61,55
+female,Standard School Support,Associate,YES,none,69,80,71
+female,Private Coaching,Below High School,YES,none,59,58,59
+male,Occasional Mentoring,Below High School,YES,none,67,64,61
+male,Private Coaching,Below High School,NO,none,45,37,37
+female,Standard School Support,Undergraduate,YES,none,60,72,74
+male,Occasional Mentoring,Associate,NO,none,61,58,56
+female,Standard School Support,Associate,YES,none,39,64,57
+female,Private Coaching,Undergraduate,NO,completed,58,63,73
+male,Private Coaching,Undergraduate,YES,completed,63,55,63
+female,Limited Tutoring,Associate,NO,none,41,51,48
+male,Standard School Support,Below High School,NO,none,61,57,56
+male,Standard School Support,Below High School,YES,none,49,49,41
+male,Occasional Mentoring,Associate,NO,none,44,41,38
+male,Elite Academic Support,Below High School,YES,none,30,26,22
+male,Limited Tutoring,Bachelor,YES,completed,80,78,81
+female,Private Coaching,Below High School,YES,completed,61,74,72
+female,Elite Academic Support,Post Graduate,YES,none,62,68,68
+female,Occasional Mentoring,Associate,YES,none,47,49,50
+male,Occasional Mentoring,High School,NO,none,49,45,45
+male,Limited Tutoring,Undergraduate,NO,completed,50,47,54
+male,Elite Academic Support,Associate,YES,none,72,64,63
+male,Private Coaching,High School,NO,none,42,39,34
+female,Standard School Support,Undergraduate,YES,none,73,80,82
+female,Standard School Support,Undergraduate,NO,none,76,83,88
+female,Private Coaching,Associate,YES,none,71,71,74
+female,Limited Tutoring,Undergraduate,YES,none,58,70,67
+female,Private Coaching,Below High School,YES,none,73,86,82
+female,Standard School Support,Bachelor,YES,none,65,72,74
+male,Standard School Support,High School,NO,none,27,34,36
+male,Standard School Support,High School,YES,none,71,79,71
+male,Standard School Support,Associate,NO,completed,43,45,50
+female,Occasional Mentoring,Undergraduate,YES,none,79,86,92
+male,Standard School Support,Associate,NO,completed,78,81,82
+male,Occasional Mentoring,Below High School,YES,completed,65,66,62
+female,Elite Academic Support,Undergraduate,YES,completed,63,72,70
+female,Private Coaching,Undergraduate,NO,none,58,67,62
+female,Private Coaching,Bachelor,YES,none,65,67,62
+male,Occasional Mentoring,Undergraduate,YES,none,79,67,67
+male,Private Coaching,Bachelor,YES,completed,68,74,74
+female,Private Coaching,Associate,YES,none,85,91,89
+male,Occasional Mentoring,High School,YES,completed,60,44,47
+male,Standard School Support,Undergraduate,YES,completed,98,86,90
+female,Standard School Support,Undergraduate,YES,none,58,67,72
+female,Private Coaching,Post Graduate,YES,none,87,100,100
+male,Elite Academic Support,Associate,YES,completed,66,63,64
+female,Occasional Mentoring,Associate,NO,none,52,76,70
+female,Occasional Mentoring,Below High School,YES,none,70,64,72
+female,Private Coaching,Associate,NO,completed,77,89,98
+male,Standard School Support,High School,YES,none,62,55,49
+male,Limited Tutoring,Associate,YES,none,54,53,47
+female,Private Coaching,Undergraduate,YES,none,51,58,54
+female,Elite Academic Support,Bachelor,YES,completed,99,100,100
+male,Standard School Support,High School,YES,none,84,77,74
+female,Occasional Mentoring,Bachelor,NO,none,75,85,82
+female,Private Coaching,Bachelor,YES,none,78,82,79
+female,Private Coaching,Below High School,YES,none,51,63,61
+female,Standard School Support,Undergraduate,YES,none,55,69,65
+female,Standard School Support,Bachelor,YES,completed,79,92,89
+male,Occasional Mentoring,Associate,YES,completed,91,89,92
+female,Standard School Support,Undergraduate,YES,completed,88,93,93
+male,Private Coaching,High School,NO,none,63,57,56
+male,Elite Academic Support,Undergraduate,YES,none,83,80,73
+female,Occasional Mentoring,High School,YES,none,87,95,86
+male,Occasional Mentoring,Below High School,YES,none,72,68,67
+male,Private Coaching,Undergraduate,YES,completed,65,77,74
+male,Private Coaching,Post Graduate,YES,none,82,82,74
+female,Limited Tutoring,Bachelor,YES,none,51,49,51
+male,Private Coaching,Post Graduate,YES,none,89,84,82
+male,Standard School Support,Below High School,NO,completed,53,37,40
+male,Elite Academic Support,Undergraduate,NO,completed,87,74,70
+female,Standard School Support,Undergraduate,YES,completed,75,81,84
+male,Private Coaching,Bachelor,NO,completed,74,79,75
+male,Standard School Support,Bachelor,YES,none,58,55,48
+male,Occasional Mentoring,Below High School,YES,completed,51,54,41
+male,Elite Academic Support,High School,YES,none,70,55,56
+female,Standard School Support,Associate,YES,none,59,66,67
+male,Private Coaching,Undergraduate,YES,completed,71,61,69
+female,Private Coaching,Below High School,YES,none,76,72,71
+female,Standard School Support,Undergraduate,NO,none,59,62,64
+female,Elite Academic Support,Undergraduate,NO,completed,42,55,54
+male,Limited Tutoring,High School,YES,none,57,43,47
+male,Private Coaching,Undergraduate,YES,none,88,73,78
+female,Standard School Support,Undergraduate,NO,none,22,39,33
+male,Occasional Mentoring,Below High School,YES,none,88,84,75
+male,Standard School Support,Associate,NO,none,73,68,66
+female,Private Coaching,Bachelor,YES,completed,68,75,81
+male,Elite Academic Support,Associate,NO,completed,100,100,93
+male,Limited Tutoring,Below High School,YES,completed,62,67,69
+male,Limited Tutoring,Bachelor,YES,none,77,67,68
+female,Occasional Mentoring,Associate,YES,completed,59,70,66
+male,Private Coaching,Bachelor,YES,none,54,49,47
+male,Private Coaching,Below High School,YES,none,62,67,61
+female,Standard School Support,Undergraduate,YES,completed,70,89,88
+female,Elite Academic Support,High School,NO,completed,66,74,78
+male,Occasional Mentoring,Undergraduate,NO,none,60,60,60
+female,Occasional Mentoring,Associate,YES,completed,61,86,87
+male,Private Coaching,Associate,NO,none,66,62,64
+male,Occasional Mentoring,Associate,NO,completed,82,78,74
+female,Elite Academic Support,Undergraduate,NO,completed,75,88,85
+male,Occasional Mentoring,Post Graduate,NO,none,49,53,52
+male,Standard School Support,High School,YES,none,52,53,49
+female,Elite Academic Support,Post Graduate,YES,none,81,92,91
+female,Standard School Support,Bachelor,YES,completed,96,100,100
+male,Standard School Support,High School,NO,completed,53,51,51
+female,Occasional Mentoring,Post Graduate,NO,completed,58,76,78
+female,Occasional Mentoring,High School,YES,completed,68,83,78
+female,Standard School Support,Undergraduate,NO,completed,67,75,70
+male,Limited Tutoring,High School,YES,completed,72,73,74
+male,Elite Academic Support,Below High School,YES,none,94,88,78
+female,Private Coaching,Undergraduate,YES,none,79,86,81
+female,Standard School Support,Associate,YES,none,63,67,70
+female,Standard School Support,Bachelor,NO,completed,43,51,54
+female,Standard School Support,Post Graduate,YES,completed,81,91,87
+female,Occasional Mentoring,High School,NO,completed,46,54,58
+female,Standard School Support,Associate,YES,completed,71,77,77
+female,Occasional Mentoring,Post Graduate,NO,completed,52,70,62
+female,Private Coaching,Below High School,YES,completed,97,100,100
+male,Standard School Support,Post Graduate,NO,completed,62,68,75
+female,Standard School Support,Undergraduate,NO,none,46,64,66
+female,Elite Academic Support,High School,YES,none,50,50,47
+female,Private Coaching,Associate,YES,none,65,69,70
+male,Standard School Support,Below High School,NO,completed,45,52,49
+male,Standard School Support,Associate,NO,completed,65,67,65
+male,Elite Academic Support,High School,YES,none,80,76,65
+male,Private Coaching,Below High School,YES,completed,62,66,68
+male,Occasional Mentoring,Below High School,NO,none,48,52,45
+female,Standard School Support,Bachelor,YES,none,77,88,87
+female,Elite Academic Support,Associate,YES,none,66,65,69
+male,Private Coaching,Undergraduate,YES,completed,76,83,79
+female,Occasional Mentoring,Below High School,YES,none,62,64,66
+male,Private Coaching,Undergraduate,YES,completed,77,62,62
+female,Standard School Support,Post Graduate,YES,completed,69,84,85
+male,Private Coaching,Associate,YES,none,61,55,52
+male,Standard School Support,Below High School,NO,completed,59,69,65
+male,Elite Academic Support,High School,NO,none,55,56,51
+female,Occasional Mentoring,Undergraduate,NO,none,45,53,55
+female,Occasional Mentoring,Bachelor,NO,none,78,79,76
+female,Standard School Support,Associate,YES,completed,67,84,86
+female,Private Coaching,Undergraduate,NO,none,65,81,77
+male,Standard School Support,Associate,YES,none,69,77,69
+female,Occasional Mentoring,Associate,YES,none,57,69,68
+male,Standard School Support,Undergraduate,YES,none,59,41,42
+male,Private Coaching,Below High School,YES,completed,74,71,78
+male,Elite Academic Support,Bachelor,YES,none,82,62,62
+male,Elite Academic Support,High School,YES,completed,81,80,76
+female,Occasional Mentoring,Undergraduate,NO,none,74,81,76
+female,Occasional Mentoring,Undergraduate,NO,none,58,61,66
+male,Private Coaching,Below High School,NO,completed,80,79,79
+male,Standard School Support,Undergraduate,NO,none,35,28,27
+female,Standard School Support,High School,NO,none,42,62,60
+male,Standard School Support,Associate,NO,completed,60,51,56
+male,Elite Academic Support,High School,YES,completed,87,91,81
+male,Occasional Mentoring,Below High School,YES,completed,84,83,75
+female,Elite Academic Support,Associate,NO,completed,83,86,88
+female,Standard School Support,High School,NO,none,34,42,39
+male,Occasional Mentoring,High School,NO,none,66,77,70
+male,Occasional Mentoring,Below High School,YES,completed,61,56,56
+female,Private Coaching,High School,YES,completed,56,68,74
+male,Occasional Mentoring,Associate,YES,none,87,85,73
+female,Standard School Support,Below High School,NO,none,55,65,62
+male,Private Coaching,Below High School,YES,none,86,80,75
+female,Occasional Mentoring,Associate,YES,completed,52,66,73
+female,Elite Academic Support,Post Graduate,NO,none,45,56,54
+female,Standard School Support,Undergraduate,YES,none,72,72,71
+male,Private Coaching,High School,YES,none,57,50,54
+male,Limited Tutoring,Below High School,NO,none,68,72,64
+female,Standard School Support,Undergraduate,YES,completed,88,95,94
+male,Private Coaching,Undergraduate,YES,none,76,64,66
+male,Standard School Support,Associate,YES,none,46,43,42
+female,Occasional Mentoring,Bachelor,YES,none,67,86,83
+male,Elite Academic Support,Below High School,YES,none,92,87,78
+male,Standard School Support,Bachelor,YES,completed,83,82,84
+male,Private Coaching,Associate,YES,none,80,75,77
+male,Private Coaching,Bachelor,NO,none,63,66,67
+female,Private Coaching,Below High School,YES,completed,64,60,74
+male,Occasional Mentoring,Undergraduate,YES,none,54,52,51
+male,Standard School Support,Associate,YES,none,84,80,80
+male,Private Coaching,High School,NO,completed,73,68,66
+female,Elite Academic Support,Bachelor,YES,none,80,83,83
+female,Private Coaching,High School,YES,none,56,52,55
+male,Elite Academic Support,Undergraduate,YES,none,59,51,43
+male,Private Coaching,Below High School,YES,none,75,74,69
+male,Standard School Support,Associate,YES,none,85,76,71
+male,Elite Academic Support,Associate,YES,none,89,76,74
+female,Occasional Mentoring,High School,YES,completed,58,70,68
+female,Occasional Mentoring,High School,YES,none,65,64,62
+male,Standard School Support,High School,YES,none,68,60,53
+male,Limited Tutoring,Below High School,YES,completed,47,49,49
+female,Private Coaching,Undergraduate,NO,none,71,83,83
+female,Occasional Mentoring,Below High School,YES,completed,60,70,70
+male,Private Coaching,Post Graduate,YES,none,80,80,72
+male,Private Coaching,High School,YES,none,54,52,52
+female,Elite Academic Support,Undergraduate,YES,none,62,73,70
+female,Standard School Support,Associate,NO,none,64,73,68
+male,Standard School Support,Associate,YES,completed,78,77,77
+female,Occasional Mentoring,Undergraduate,YES,none,70,75,78
+female,Standard School Support,Post Graduate,NO,completed,65,81,81
+female,Standard School Support,Below High School,NO,completed,64,79,77
+male,Standard School Support,Undergraduate,YES,completed,79,79,78
+female,Standard School Support,Below High School,NO,none,44,50,51
+female,Elite Academic Support,High School,YES,none,99,93,90
+male,Private Coaching,High School,YES,none,76,73,68
+male,Private Coaching,Below High School,NO,none,59,42,41
+female,Standard School Support,Bachelor,YES,none,63,75,81
+female,Private Coaching,High School,YES,none,69,72,77
+female,Private Coaching,Associate,YES,completed,88,92,95
+female,Elite Academic Support,Undergraduate,NO,none,71,76,70
+male,Standard School Support,Bachelor,YES,none,69,63,61
+male,Standard School Support,Undergraduate,YES,none,58,49,42
+female,Private Coaching,Associate,NO,none,47,53,58
+female,Private Coaching,Undergraduate,YES,none,65,70,71
+male,Occasional Mentoring,Undergraduate,YES,completed,88,85,76
+male,Standard School Support,Bachelor,YES,none,83,78,73
+female,Standard School Support,Below High School,YES,completed,85,92,93
+female,Elite Academic Support,High School,YES,completed,59,63,75
+female,Standard School Support,Below High School,NO,none,65,86,80
+male,Occasional Mentoring,Bachelor,NO,none,73,56,57
+male,Private Coaching,High School,YES,none,53,52,42
+male,Private Coaching,High School,YES,none,45,48,46
+female,Private Coaching,Bachelor,NO,none,73,79,84
+female,Private Coaching,Undergraduate,NO,completed,70,78,78
+female,Occasional Mentoring,Below High School,YES,none,37,46,46
+male,Occasional Mentoring,Associate,YES,completed,81,82,82
+male,Elite Academic Support,Associate,YES,completed,97,82,88
+female,Occasional Mentoring,Below High School,YES,none,67,89,82
+male,Occasional Mentoring,Bachelor,NO,none,88,75,76
+male,Elite Academic Support,Below High School,YES,completed,77,76,77
+male,Standard School Support,Associate,YES,none,76,70,68
+male,Private Coaching,Below High School,YES,none,86,73,70
+male,Standard School Support,Below High School,YES,completed,63,60,57
+female,Elite Academic Support,Bachelor,YES,none,65,73,75
+male,Private Coaching,High School,NO,completed,78,77,80
+male,Occasional Mentoring,Associate,NO,none,67,62,60
+male,Limited Tutoring,Below High School,YES,completed,46,41,43
+male,Elite Academic Support,Associate,YES,completed,71,74,68
+male,Standard School Support,High School,NO,completed,40,46,50
+male,Private Coaching,Associate,NO,none,90,87,75
+male,Limited Tutoring,Undergraduate,NO,completed,81,78,81
+male,Private Coaching,Below High School,NO,none,56,54,52
+female,Standard School Support,Associate,YES,completed,67,84,81
+male,Occasional Mentoring,Associate,YES,none,80,76,64
+female,Standard School Support,Associate,YES,completed,74,75,83
+male,Limited Tutoring,Undergraduate,YES,none,69,67,69
+male,Elite Academic Support,Undergraduate,YES,completed,99,87,81
+male,Standard School Support,Below High School,YES,none,51,52,44
+female,Occasional Mentoring,Associate,NO,none,53,71,67
+female,Private Coaching,High School,NO,none,49,57,52
+female,Occasional Mentoring,Associate,YES,none,73,76,80
+male,Occasional Mentoring,Bachelor,YES,none,66,60,57
+male,Private Coaching,Bachelor,YES,completed,67,61,68
+female,Standard School Support,Associate,NO,completed,68,67,69
+female,Standard School Support,Bachelor,YES,completed,59,64,75
+male,Standard School Support,High School,YES,none,71,66,65
+female,Private Coaching,Post Graduate,YES,completed,77,82,91
+male,Standard School Support,Associate,YES,none,83,72,78
+male,Occasional Mentoring,Bachelor,YES,none,63,71,69
+female,Private Coaching,Associate,NO,none,56,65,63
+female,Standard School Support,High School,NO,completed,67,79,84
+female,Elite Academic Support,High School,YES,none,75,86,79
+female,Standard School Support,Undergraduate,YES,none,71,81,80
+female,Standard School Support,Below High School,NO,none,43,53,53
+female,Standard School Support,High School,NO,none,41,46,43
+female,Standard School Support,Undergraduate,YES,none,82,90,94
+male,Standard School Support,Undergraduate,YES,none,61,61,62
+male,Limited Tutoring,Undergraduate,NO,none,28,23,19
+male,Standard School Support,Associate,YES,completed,82,75,77
+female,Occasional Mentoring,Below High School,YES,none,41,55,51
+male,Standard School Support,High School,YES,none,71,60,61
+male,Standard School Support,Associate,YES,none,47,37,35
+male,Elite Academic Support,Associate,YES,completed,62,56,53
+male,Occasional Mentoring,Associate,YES,none,90,78,81
+female,Standard School Support,Bachelor,YES,none,83,93,95
+female,Occasional Mentoring,Undergraduate,NO,none,61,68,66
+male,Private Coaching,Below High School,YES,completed,76,70,69
+male,Standard School Support,Associate,YES,none,49,51,43
+female,Occasional Mentoring,Below High School,NO,none,24,38,27
+female,Private Coaching,Below High School,NO,completed,35,55,60
+male,Standard School Support,High School,NO,none,58,61,52
+female,Standard School Support,High School,YES,none,61,73,63
+female,Occasional Mentoring,High School,YES,completed,69,76,74
+male,Private Coaching,Associate,YES,completed,67,72,67
+male,Private Coaching,Undergraduate,YES,none,79,73,67
+female,Standard School Support,High School,YES,none,72,80,75
+male,Occasional Mentoring,Undergraduate,YES,none,62,61,57
+female,Standard School Support,Bachelor,YES,completed,77,94,95
+male,Private Coaching,High School,NO,none,75,74,66
+male,Elite Academic Support,Associate,YES,none,87,74,76
+female,Occasional Mentoring,Bachelor,YES,none,52,65,69
+male,Elite Academic Support,Undergraduate,YES,none,66,57,52
+female,Standard School Support,Undergraduate,YES,completed,63,78,80
+female,Standard School Support,Associate,YES,none,46,58,57
+female,Standard School Support,Undergraduate,YES,none,59,71,70
+female,Occasional Mentoring,Bachelor,YES,none,61,72,70
+male,Limited Tutoring,Associate,YES,none,63,61,61
+female,Standard School Support,Undergraduate,NO,completed,42,66,69
+male,Private Coaching,Undergraduate,NO,none,59,62,61
+female,Private Coaching,Undergraduate,YES,none,80,90,89
+female,Occasional Mentoring,High School,YES,none,58,62,59
+male,Occasional Mentoring,Below High School,YES,completed,85,84,78
+female,Standard School Support,Undergraduate,YES,none,52,58,58
+female,Private Coaching,Below High School,NO,none,27,34,32
+male,Standard School Support,Undergraduate,YES,none,59,60,58
+male,Limited Tutoring,Bachelor,NO,completed,49,58,60
+male,Standard School Support,High School,YES,completed,69,58,53
+male,Standard School Support,Bachelor,NO,none,61,66,61
+female,Limited Tutoring,Below High School,NO,none,44,64,58
+female,Private Coaching,Below High School,YES,none,73,84,85
+male,Elite Academic Support,Undergraduate,YES,none,84,77,71
+female,Standard School Support,Undergraduate,NO,completed,45,73,70
+male,Private Coaching,Below High School,YES,none,74,74,72
+female,Private Coaching,Undergraduate,YES,completed,82,97,96
+female,Private Coaching,Bachelor,YES,none,59,70,73
+male,Elite Academic Support,Associate,NO,none,46,43,41
+female,Private Coaching,Below High School,YES,none,80,90,82
+female,Private Coaching,Post Graduate,NO,completed,85,95,100
+female,Limited Tutoring,Below High School,YES,none,71,83,77
+male,Limited Tutoring,Bachelor,YES,none,66,64,62
+female,Occasional Mentoring,Associate,YES,none,80,86,83
+male,Standard School Support,Associate,YES,completed,87,100,95
+male,Standard School Support,Post Graduate,NO,none,79,81,71
+female,Elite Academic Support,Below High School,NO,none,38,49,45
+female,Limited Tutoring,Below High School,NO,none,38,43,43
+female,Elite Academic Support,Undergraduate,YES,none,67,76,75
+female,Elite Academic Support,Bachelor,YES,none,64,73,70
+female,Standard School Support,Associate,NO,none,57,78,67
+female,Private Coaching,High School,YES,none,62,64,64
+male,Private Coaching,Post Graduate,YES,none,73,70,75
+male,Elite Academic Support,Below High School,NO,completed,73,67,59
+female,Private Coaching,Undergraduate,YES,none,77,68,77
+male,Elite Academic Support,Undergraduate,YES,none,76,67,67
+male,Standard School Support,Associate,YES,completed,57,54,56
+female,Standard School Support,Below High School,YES,completed,65,74,77
+male,Limited Tutoring,High School,NO,none,48,45,41
+female,Occasional Mentoring,High School,NO,none,50,67,63
+female,Standard School Support,Associate,YES,none,85,89,95
+male,Occasional Mentoring,Below High School,YES,none,74,63,57
+male,Private Coaching,Below High School,YES,none,60,59,54
+female,Standard School Support,Below High School,YES,completed,59,54,67
+male,Limited Tutoring,Undergraduate,YES,none,53,43,43
+female,Limited Tutoring,Undergraduate,NO,none,49,65,55
+female,Private Coaching,High School,YES,completed,88,99,100
+female,Standard School Support,High School,YES,none,54,59,62
+female,Standard School Support,Below High School,YES,none,63,73,68
+male,Occasional Mentoring,Associate,YES,completed,65,65,63
+female,Occasional Mentoring,Associate,YES,none,82,80,77
+female,Private Coaching,High School,NO,completed,52,57,56
+male,Private Coaching,Associate,YES,completed,87,84,85
+female,Private Coaching,Post Graduate,YES,completed,70,71,74
+male,Elite Academic Support,Undergraduate,YES,completed,84,83,78
+male,Private Coaching,Associate,YES,none,71,66,60
+male,Occasional Mentoring,Below High School,YES,completed,63,67,67
+female,Standard School Support,Bachelor,NO,completed,51,72,79
+male,Elite Academic Support,High School,YES,none,84,73,69
+male,Standard School Support,Bachelor,YES,completed,71,74,68
+male,Standard School Support,Associate,YES,none,74,73,67
+male,Private Coaching,Undergraduate,YES,none,68,59,62
+male,Elite Academic Support,High School,NO,completed,57,56,54
+female,Standard School Support,Associate,NO,completed,82,93,93
+female,Private Coaching,High School,YES,completed,57,58,64
+female,Private Coaching,Post Graduate,NO,completed,47,58,67
+female,Limited Tutoring,Below High School,YES,completed,59,85,80
+male,Occasional Mentoring,Undergraduate,NO,none,41,39,34
+female,Standard School Support,Undergraduate,NO,none,62,67,62
+male,Standard School Support,Bachelor,YES,none,86,83,86
+male,Standard School Support,Below High School,NO,none,69,71,65
+male,Limited Tutoring,Below High School,NO,none,65,59,53
+male,Standard School Support,Below High School,NO,none,68,63,54
+male,Standard School Support,Associate,NO,none,64,66,59
+female,Standard School Support,High School,YES,none,61,72,70
+male,Standard School Support,High School,YES,none,61,56,55
+female,Limited Tutoring,Below High School,NO,none,47,59,50
+male,Standard School Support,Below High School,YES,none,73,66,66
+male,Standard School Support,Undergraduate,NO,completed,50,48,53
+male,Private Coaching,Associate,YES,none,75,68,64
+male,Private Coaching,Associate,NO,none,75,66,73
+male,Standard School Support,High School,YES,none,70,56,51
+male,Private Coaching,Below High School,YES,completed,89,88,82
+female,Standard School Support,Undergraduate,YES,completed,67,81,79
+female,Private Coaching,High School,YES,none,78,81,80
+female,Limited Tutoring,Below High School,NO,none,59,73,69
+female,Occasional Mentoring,Associate,YES,none,73,83,76
+male,Limited Tutoring,Below High School,NO,none,79,82,73
+female,Standard School Support,Below High School,YES,completed,67,74,77
+male,Private Coaching,Undergraduate,NO,none,69,66,60
+male,Standard School Support,High School,YES,completed,86,81,80
+male,Occasional Mentoring,High School,YES,none,47,46,42
+male,Occasional Mentoring,Associate,YES,none,81,73,72
+female,Standard School Support,Undergraduate,NO,completed,64,85,85
+female,Elite Academic Support,Undergraduate,YES,none,100,92,97
+female,Standard School Support,Associate,NO,none,65,77,74
+male,Standard School Support,Undergraduate,NO,none,65,58,49
+female,Standard School Support,Associate,NO,none,53,61,62
+male,Standard School Support,Bachelor,NO,none,37,56,47
+female,Private Coaching,Bachelor,YES,none,79,89,89
+male,Private Coaching,Associate,NO,none,53,54,48
+female,Elite Academic Support,Bachelor,YES,none,100,100,100
+male,Occasional Mentoring,High School,YES,completed,72,65,68
+male,Standard School Support,Bachelor,NO,none,53,58,55
+male,Occasional Mentoring,Undergraduate,NO,none,54,54,45
+female,Elite Academic Support,Undergraduate,YES,none,71,70,76
+female,Standard School Support,Undergraduate,NO,none,77,90,91
+male,Limited Tutoring,Bachelor,YES,completed,75,58,62
+female,Standard School Support,Undergraduate,YES,none,84,87,91
+female,Private Coaching,Associate,NO,none,26,31,38
+male,Limited Tutoring,High School,NO,completed,72,67,65
+female,Limited Tutoring,High School,NO,completed,77,88,85
+male,Standard School Support,Undergraduate,YES,none,91,74,76
+female,Standard School Support,Associate,YES,completed,83,85,90
+female,Standard School Support,High School,YES,none,63,69,74
+female,Standard School Support,Associate,YES,completed,68,86,84
+female,Private Coaching,Below High School,YES,none,59,67,61
+female,Occasional Mentoring,Associate,YES,completed,90,90,91
+female,Private Coaching,Bachelor,YES,completed,71,76,83
+male,Elite Academic Support,Bachelor,YES,completed,76,62,66
+male,Private Coaching,Associate,YES,none,80,68,72
+female,Private Coaching,Post Graduate,YES,none,55,64,70
+male,Elite Academic Support,Associate,YES,none,76,71,67
+male,Occasional Mentoring,High School,YES,completed,73,71,68
+female,Private Coaching,Associate,NO,none,52,59,56
+male,Standard School Support,Undergraduate,NO,none,68,68,61
+male,Limited Tutoring,High School,YES,none,59,52,46
+female,Occasional Mentoring,Associate,YES,none,49,52,54
+male,Standard School Support,High School,YES,none,70,74,71
+male,Private Coaching,Undergraduate,NO,none,61,47,56
+female,Standard School Support,Associate,NO,none,60,75,74
+male,Occasional Mentoring,Below High School,YES,completed,64,53,57
+male,Limited Tutoring,Associate,NO,completed,79,82,82
+female,Limited Tutoring,Associate,NO,none,65,85,76
+female,Standard School Support,Associate,YES,none,64,64,70
+female,Standard School Support,Undergraduate,YES,none,83,83,90
+female,Standard School Support,Bachelor,YES,none,81,88,90
+female,Occasional Mentoring,High School,YES,none,54,64,68
+male,Private Coaching,High School,YES,completed,68,64,66
+female,Standard School Support,Undergraduate,YES,none,54,48,52
+female,Private Coaching,Undergraduate,NO,completed,59,78,76
+female,Occasional Mentoring,Below High School,YES,none,66,69,68
+male,Elite Academic Support,Undergraduate,YES,none,76,71,72
+female,Private Coaching,Post Graduate,YES,none,74,79,82
+female,Occasional Mentoring,Associate,YES,completed,94,87,92
+male,Standard School Support,Undergraduate,NO,none,63,61,54
+female,Elite Academic Support,Associate,YES,completed,95,89,92
+female,Private Coaching,Post Graduate,NO,none,40,59,54
+female,Occasional Mentoring,Below High School,YES,none,82,82,80
+male,Limited Tutoring,High School,YES,none,68,70,66
+male,Occasional Mentoring,Bachelor,NO,none,55,59,54
+male,Standard School Support,Post Graduate,YES,none,79,78,77
+female,Standard School Support,Bachelor,YES,none,86,92,87
+male,Private Coaching,Undergraduate,YES,none,76,71,73
+male,Limited Tutoring,Below High School,YES,none,64,50,43
+male,Private Coaching,Below High School,NO,none,62,49,52
+female,Occasional Mentoring,Below High School,YES,completed,54,61,62
+female,Occasional Mentoring,Post Graduate,NO,completed,77,97,94
+female,Standard School Support,Below High School,YES,completed,76,87,85
+female,Private Coaching,Undergraduate,YES,none,74,89,84
+female,Elite Academic Support,Undergraduate,YES,completed,66,74,73
+female,Private Coaching,Below High School,YES,completed,66,78,78
+female,Occasional Mentoring,High School,NO,completed,67,78,79
+male,Private Coaching,Undergraduate,YES,none,71,49,52
+female,Standard School Support,Associate,YES,none,91,86,84
+male,Private Coaching,Bachelor,YES,none,69,58,57
+male,Standard School Support,Post Graduate,NO,none,54,59,50
+male,Standard School Support,High School,YES,completed,53,52,49
+male,Elite Academic Support,Undergraduate,YES,none,68,60,59
+male,Standard School Support,Below High School,NO,completed,56,61,60
+female,Standard School Support,High School,NO,none,36,53,43
+female,Private Coaching,Bachelor,NO,none,29,41,47
+female,Standard School Support,Associate,YES,none,62,74,70
+female,Standard School Support,Associate,YES,completed,68,67,73
+female,Standard School Support,Below High School,YES,none,47,54,53
+male,Elite Academic Support,Associate,YES,completed,62,61,58
+female,Elite Academic Support,Associate,YES,completed,79,88,94
+male,Occasional Mentoring,High School,YES,completed,73,69,68
+female,Standard School Support,Bachelor,NO,completed,66,83,83
+male,Standard School Support,Associate,YES,completed,51,60,58
+female,Private Coaching,High School,YES,none,51,66,62
+male,Elite Academic Support,Bachelor,YES,completed,85,66,71
+male,Limited Tutoring,Associate,YES,completed,97,92,86
+male,Standard School Support,High School,YES,completed,75,69,68
+male,Private Coaching,Associate,NO,completed,79,82,80
+female,Standard School Support,Associate,YES,none,81,77,79
+female,Private Coaching,Associate,YES,none,82,95,89
+female,Private Coaching,Post Graduate,YES,none,64,63,66
+male,Elite Academic Support,Below High School,NO,completed,78,83,80
+female,Limited Tutoring,Below High School,YES,completed,92,100,97
+male,Standard School Support,High School,YES,completed,72,67,64
+female,Standard School Support,High School,NO,none,62,67,64
+male,Standard School Support,Post Graduate,YES,none,79,72,69
+male,Standard School Support,Below High School,NO,none,79,76,65
+male,Occasional Mentoring,Bachelor,NO,completed,87,90,88
+female,Occasional Mentoring,Associate,YES,none,40,48,50
+male,Private Coaching,Undergraduate,NO,none,77,62,64
+male,Elite Academic Support,Associate,YES,none,53,45,40
+female,Standard School Support,Undergraduate,NO,none,32,39,33
+female,Standard School Support,Associate,YES,completed,55,72,79
+male,Standard School Support,Post Graduate,NO,none,61,67,66
+female,Occasional Mentoring,Associate,NO,none,53,70,70
+male,Private Coaching,Below High School,YES,none,73,66,62
+female,Private Coaching,Undergraduate,YES,completed,74,75,79
+female,Standard School Support,Undergraduate,YES,none,63,74,74
+male,Standard School Support,Bachelor,YES,completed,96,90,92
+female,Private Coaching,Undergraduate,NO,completed,63,80,80
+male,Occasional Mentoring,Bachelor,NO,none,48,51,46
+male,Occasional Mentoring,Associate,YES,none,48,43,45
+female,Elite Academic Support,Bachelor,NO,completed,92,100,100
+female,Private Coaching,Post Graduate,NO,completed,61,71,78
+male,Occasional Mentoring,High School,NO,none,63,48,47
+male,Private Coaching,Bachelor,NO,none,68,68,67
+male,Occasional Mentoring,Undergraduate,YES,completed,71,75,70
+male,Limited Tutoring,Bachelor,YES,none,91,96,92
+female,Standard School Support,Undergraduate,YES,none,53,62,56
+female,Standard School Support,High School,NO,completed,50,66,64
+female,Elite Academic Support,High School,YES,none,74,81,71
+male,Limited Tutoring,Associate,NO,completed,40,55,53
+male,Limited Tutoring,Undergraduate,YES,completed,61,51,52
+female,Occasional Mentoring,High School,YES,none,81,91,89
+female,Occasional Mentoring,Undergraduate,NO,completed,48,56,58
+female,Private Coaching,Post Graduate,YES,none,53,61,68
+female,Private Coaching,Below High School,YES,none,81,97,96
+female,Elite Academic Support,Below High School,YES,none,77,79,80
+female,Private Coaching,Bachelor,NO,none,63,73,78
+female,Private Coaching,Associate,YES,completed,73,75,80
+female,Private Coaching,Undergraduate,YES,none,69,77,77
+female,Standard School Support,Associate,YES,none,65,76,76
+female,Limited Tutoring,High School,YES,none,55,73,73
+female,Standard School Support,Bachelor,NO,none,44,63,62
+female,Standard School Support,Undergraduate,YES,none,54,64,65
+female,Limited Tutoring,Below High School,YES,none,48,66,65
+male,Standard School Support,Undergraduate,NO,none,58,57,54
+male,Limited Tutoring,Below High School,YES,none,71,62,50
+male,Elite Academic Support,Bachelor,YES,none,68,68,64
+female,Elite Academic Support,High School,YES,none,74,76,73
+female,Standard School Support,Bachelor,YES,completed,92,100,99
+female,Standard School Support,Bachelor,YES,completed,56,79,72
+male,Occasional Mentoring,High School,NO,none,30,24,15
+male,Limited Tutoring,Below High School,YES,none,53,54,48
+female,Private Coaching,High School,YES,none,69,77,73
+female,Private Coaching,Below High School,YES,none,65,82,81
+female,Private Coaching,Post Graduate,YES,none,54,60,63
+female,Standard School Support,High School,YES,none,29,29,30
+female,Elite Academic Support,Undergraduate,YES,none,76,78,80
+male,Private Coaching,High School,NO,none,60,57,51
+male,Private Coaching,Post Graduate,NO,completed,84,89,90
+male,Standard School Support,Below High School,YES,none,75,72,62
+female,Standard School Support,Associate,YES,none,85,84,82
+female,Standard School Support,Post Graduate,NO,none,40,58,54
+female,Elite Academic Support,Undergraduate,YES,none,61,64,62
+female,Occasional Mentoring,Associate,YES,none,58,63,65
+male,Private Coaching,Undergraduate,NO,completed,69,60,63
+female,Standard School Support,Undergraduate,YES,none,58,59,66
+male,Standard School Support,Bachelor,YES,completed,94,90,91
+female,Standard School Support,Associate,YES,none,65,77,74
+female,Limited Tutoring,Associate,YES,none,82,93,93
+female,Standard School Support,High School,YES,none,60,68,72
+female,Elite Academic Support,Bachelor,YES,none,37,45,38
+male,Private Coaching,Bachelor,YES,none,88,78,83
+male,Private Coaching,Post Graduate,YES,none,95,81,84
+male,Standard School Support,Associate,NO,completed,65,73,68
+female,Standard School Support,High School,NO,none,35,61,54
+male,Occasional Mentoring,Bachelor,NO,none,62,63,56
+male,Standard School Support,High School,NO,completed,58,51,52
+male,Limited Tutoring,Undergraduate,YES,completed,100,96,86
+female,Elite Academic Support,Bachelor,NO,none,61,58,62
+male,Private Coaching,Undergraduate,YES,completed,100,97,99
+male,Occasional Mentoring,Associate,NO,completed,69,70,63
+male,Private Coaching,Associate,YES,none,61,48,46
+male,Private Coaching,Undergraduate,NO,none,49,57,46
+female,Standard School Support,Below High School,YES,completed,44,51,55
+male,Private Coaching,Undergraduate,YES,none,67,64,70
+male,Occasional Mentoring,High School,YES,none,79,60,65
+female,Occasional Mentoring,Bachelor,YES,completed,66,74,81
+female,Standard School Support,High School,YES,none,75,88,85
+male,Private Coaching,Below High School,YES,none,84,84,80
+male,Limited Tutoring,High School,YES,none,71,74,64
+female,Occasional Mentoring,High School,NO,completed,67,80,81
+female,Private Coaching,Below High School,YES,completed,80,92,88
+male,Elite Academic Support,Undergraduate,YES,none,86,76,74
+female,Private Coaching,Associate,YES,none,76,74,73
+male,Private Coaching,High School,YES,none,41,52,51
+female,Private Coaching,Associate,NO,completed,74,88,90
+female,Occasional Mentoring,Below High School,NO,none,72,81,79
+female,Elite Academic Support,High School,YES,completed,74,79,80
+male,Occasional Mentoring,High School,YES,none,70,65,60
+female,Occasional Mentoring,Bachelor,YES,completed,65,81,81
+female,Private Coaching,Associate,YES,none,59,70,65
+female,Elite Academic Support,High School,NO,none,64,62,68
+female,Occasional Mentoring,High School,YES,none,50,53,55
+female,Private Coaching,Undergraduate,YES,completed,69,79,81
+male,Standard School Support,Below High School,NO,completed,51,56,53
+female,Limited Tutoring,High School,YES,completed,68,80,76
+female,Private Coaching,Undergraduate,YES,completed,85,86,98
+female,Limited Tutoring,Associate,YES,completed,65,70,74
+female,Occasional Mentoring,Below High School,YES,none,73,79,79
+female,Occasional Mentoring,Undergraduate,YES,none,62,67,67
+male,Standard School Support,Associate,NO,none,77,67,64
+male,Private Coaching,Below High School,YES,none,69,66,61
+female,Private Coaching,Associate,NO,none,43,60,58
+male,Private Coaching,Associate,YES,none,90,87,85
+male,Standard School Support,Undergraduate,NO,none,74,77,73
+male,Standard School Support,Below High School,YES,none,73,66,63
+female,Private Coaching,Undergraduate,NO,none,55,71,69
+female,Standard School Support,High School,YES,none,65,69,67
+male,Private Coaching,Associate,YES,none,80,63,63
+female,Standard School Support,Below High School,NO,completed,50,60,60
+female,Standard School Support,Undergraduate,NO,completed,63,73,71
+female,Occasional Mentoring,Bachelor,NO,none,77,85,87
+male,Standard School Support,Undergraduate,YES,none,73,74,61
+male,Private Coaching,Associate,YES,completed,81,72,77
+female,Standard School Support,High School,NO,none,66,76,68
+male,Private Coaching,Associate,NO,none,52,57,50
+female,Standard School Support,Undergraduate,YES,none,69,78,76
+female,Standard School Support,Associate,YES,completed,65,84,84
+female,Private Coaching,High School,YES,completed,69,77,78
+female,Occasional Mentoring,Undergraduate,YES,completed,50,64,66
+female,Elite Academic Support,Undergraduate,YES,completed,73,78,76
+female,Standard School Support,Below High School,YES,completed,70,82,76
+male,Private Coaching,Associate,NO,none,81,75,78
+male,Private Coaching,Undergraduate,NO,none,63,61,60
+female,Private Coaching,High School,YES,none,67,72,74
+male,Occasional Mentoring,High School,YES,none,60,68,60
+male,Occasional Mentoring,High School,YES,none,62,55,54
+female,Standard School Support,Below High School,NO,completed,29,40,44
+male,Occasional Mentoring,Undergraduate,YES,completed,62,66,68
+female,Elite Academic Support,Post Graduate,YES,completed,94,99,100
+male,Elite Academic Support,Undergraduate,YES,completed,85,75,68
+male,Private Coaching,Associate,NO,none,77,78,73
+male,Limited Tutoring,High School,NO,none,53,58,44
+male,Elite Academic Support,Undergraduate,NO,none,93,90,83
+female,Standard School Support,Associate,YES,none,49,53,53
+female,Elite Academic Support,Associate,NO,none,73,76,78
+female,Standard School Support,Bachelor,NO,completed,66,74,81
+female,Private Coaching,Associate,YES,none,77,77,73
+female,Standard School Support,Below High School,YES,none,49,63,56
+female,Private Coaching,Undergraduate,NO,none,79,89,86
+female,Standard School Support,Associate,YES,completed,75,82,90
+female,Limited Tutoring,Bachelor,YES,none,59,72,70
+female,Private Coaching,Associate,YES,completed,57,78,79
+male,Standard School Support,High School,NO,none,66,66,59
+female,Elite Academic Support,Bachelor,YES,completed,79,81,82
+female,Occasional Mentoring,Below High School,YES,none,57,67,72
+male,Limited Tutoring,Bachelor,YES,completed,87,84,87
+female,Private Coaching,Undergraduate,YES,none,63,64,67
+female,Occasional Mentoring,Below High School,NO,completed,59,63,64
+male,Limited Tutoring,Bachelor,NO,none,62,72,65
+male,Private Coaching,High School,YES,none,46,34,36
+male,Standard School Support,Undergraduate,YES,none,66,59,52
+male,Private Coaching,High School,YES,none,89,87,79
+female,Private Coaching,Associate,NO,completed,42,61,58
+male,Standard School Support,Undergraduate,YES,completed,93,84,90
+female,Elite Academic Support,Below High School,YES,completed,80,85,85
+female,Private Coaching,Undergraduate,YES,none,98,100,99
+male,Private Coaching,Post Graduate,YES,none,81,81,84
+female,Occasional Mentoring,Below High School,YES,completed,60,70,74
+female,Occasional Mentoring,Associate,NO,completed,76,94,87
+male,Standard School Support,Associate,YES,completed,73,78,72
+female,Standard School Support,Associate,YES,completed,96,96,99
+female,Standard School Support,High School,YES,none,76,76,74
+male,Elite Academic Support,Associate,NO,completed,91,73,80
+female,Standard School Support,Undergraduate,NO,none,62,72,70
+male,Private Coaching,Below High School,NO,completed,55,59,59
+female,Occasional Mentoring,Below High School,NO,completed,74,90,88
+male,Standard School Support,High School,YES,none,50,48,42
+male,Occasional Mentoring,Undergraduate,YES,none,47,43,41
+male,Elite Academic Support,Undergraduate,YES,completed,81,74,71
+female,Elite Academic Support,Associate,YES,completed,65,75,77
+male,Elite Academic Support,Below High School,YES,completed,68,51,57
+female,Private Coaching,High School,NO,none,73,92,84
+male,Standard School Support,Undergraduate,YES,none,53,39,37
+female,Occasional Mentoring,Associate,NO,completed,68,77,80
+male,Limited Tutoring,Below High School,NO,none,55,46,43
+female,Standard School Support,Undergraduate,YES,completed,87,89,94
+male,Private Coaching,Below High School,YES,none,55,47,44
+female,Elite Academic Support,Undergraduate,NO,none,53,58,57
+male,Standard School Support,Post Graduate,YES,none,67,57,59
+male,Standard School Support,Associate,YES,none,92,79,84
+female,Occasional Mentoring,Undergraduate,NO,completed,53,66,73
+male,Private Coaching,Associate,YES,none,81,71,73
+male,Standard School Support,High School,NO,none,61,60,55
+male,Private Coaching,Bachelor,YES,none,80,73,72
+female,Limited Tutoring,Associate,NO,none,37,57,56
+female,Standard School Support,High School,YES,none,81,84,82
+female,Standard School Support,Associate,YES,completed,59,73,72
+male,Occasional Mentoring,Undergraduate,NO,none,55,55,47
+male,Private Coaching,Associate,YES,none,72,79,74
+male,Private Coaching,High School,YES,none,69,75,71
+male,Standard School Support,Undergraduate,YES,none,69,64,68
+female,Standard School Support,Bachelor,NO,none,50,60,59
+male,Occasional Mentoring,Undergraduate,YES,completed,87,84,86
+male,Private Coaching,Below High School,YES,completed,71,69,68
+male,Elite Academic Support,Undergraduate,YES,none,68,72,65
+male,Standard School Support,Post Graduate,NO,completed,79,77,75
+female,Standard School Support,Below High School,YES,completed,77,90,85
+male,Standard School Support,Associate,NO,none,58,55,53
+female,Elite Academic Support,Associate,YES,none,84,95,92
+male,Private Coaching,Undergraduate,YES,none,55,58,52
+male,Elite Academic Support,Bachelor,NO,completed,70,68,72
+female,Private Coaching,Undergraduate,NO,completed,52,59,65
+male,Occasional Mentoring,Undergraduate,YES,completed,69,77,77
+female,Standard School Support,High School,NO,none,53,72,64
+female,Private Coaching,Below High School,YES,none,48,58,54
+male,Private Coaching,Below High School,YES,completed,78,81,86
+female,Occasional Mentoring,High School,YES,none,62,62,63
+male,Private Coaching,Undergraduate,YES,none,60,63,59
+female,Occasional Mentoring,High School,YES,none,74,72,72
+female,Standard School Support,High School,YES,completed,58,75,77
+male,Occasional Mentoring,High School,YES,completed,76,62,60
+female,Private Coaching,Below High School,YES,none,68,71,75
+male,Limited Tutoring,Undergraduate,NO,none,58,60,57
+male,Occasional Mentoring,High School,YES,none,52,48,49
+male,Private Coaching,Bachelor,YES,none,75,73,74
+female,Occasional Mentoring,Below High School,NO,completed,52,67,72
+female,Standard School Support,Bachelor,NO,none,62,78,79
+male,Occasional Mentoring,Undergraduate,YES,none,66,65,60
+female,Occasional Mentoring,Below High School,NO,none,49,58,55
+female,Occasional Mentoring,High School,YES,none,66,72,70
+female,Standard School Support,Undergraduate,NO,none,35,44,43
+female,Limited Tutoring,Undergraduate,YES,completed,72,79,82
+male,Elite Academic Support,Associate,YES,completed,94,85,82
+female,Private Coaching,Associate,NO,none,46,56,57
+female,Occasional Mentoring,Post Graduate,YES,none,77,90,84
+female,Occasional Mentoring,High School,NO,completed,76,85,82
+female,Standard School Support,Associate,YES,completed,52,59,62
+male,Standard School Support,Bachelor,YES,completed,91,81,79
+female,Occasional Mentoring,Below High School,YES,completed,32,51,44
+female,Elite Academic Support,Below High School,NO,none,72,79,77
+female,Occasional Mentoring,Undergraduate,YES,none,19,38,32
+male,Standard School Support,Associate,NO,none,68,65,61
+female,Standard School Support,Post Graduate,NO,none,52,65,61
+female,Occasional Mentoring,High School,YES,none,48,62,60
+female,Private Coaching,Undergraduate,NO,none,60,66,70
+male,Private Coaching,High School,NO,none,66,74,69
+male,Elite Academic Support,Below High School,YES,completed,89,84,77
+female,Occasional Mentoring,High School,YES,none,42,52,51
+female,Elite Academic Support,Associate,NO,completed,57,68,73
+male,Private Coaching,High School,YES,none,70,70,70
+female,Elite Academic Support,Associate,NO,none,70,84,81
+male,Elite Academic Support,Undergraduate,YES,none,69,60,54
+female,Standard School Support,Associate,YES,none,52,55,57
+male,Standard School Support,Below High School,YES,completed,67,73,68
+male,Standard School Support,Below High School,YES,completed,76,80,73
+female,Elite Academic Support,Associate,YES,none,87,94,95
+female,Occasional Mentoring,Undergraduate,YES,none,82,85,87
+female,Standard School Support,Undergraduate,YES,none,73,76,78
+male,Limited Tutoring,Undergraduate,NO,none,75,81,74
+female,Private Coaching,Undergraduate,NO,none,64,74,75
+female,Elite Academic Support,High School,NO,none,41,45,40
+male,Standard School Support,High School,YES,none,90,75,69
+male,Occasional Mentoring,Bachelor,YES,none,59,54,51
+male,Limited Tutoring,Below High School,YES,none,51,31,36
+male,Limited Tutoring,High School,NO,none,45,47,49
+female,Standard School Support,Post Graduate,YES,completed,54,64,67
+male,Elite Academic Support,Below High School,YES,completed,87,84,76
+female,Standard School Support,High School,YES,none,72,80,83
+male,Occasional Mentoring,Below High School,YES,completed,94,86,87
+female,Limited Tutoring,Bachelor,YES,none,45,59,64
+male,Private Coaching,Bachelor,NO,completed,61,70,76
+female,Occasional Mentoring,High School,NO,none,60,72,68
+female,Standard School Support,Below High School,YES,none,77,91,88
+female,Limited Tutoring,Below High School,YES,completed,85,90,92
+female,Private Coaching,Bachelor,NO,none,78,90,93
+male,Elite Academic Support,Undergraduate,NO,completed,49,52,51
+female,Occasional Mentoring,High School,NO,none,71,87,82
+female,Standard School Support,Below High School,NO,none,48,58,52
+male,Standard School Support,High School,YES,none,62,67,58
+female,Standard School Support,Associate,NO,completed,56,68,70
+female,Standard School Support,Below High School,YES,none,65,69,76
+female,Private Coaching,Below High School,NO,completed,69,86,81
+male,Occasional Mentoring,Below High School,YES,none,68,54,53
+female,Limited Tutoring,Undergraduate,NO,none,61,60,57
+female,Standard School Support,Bachelor,NO,completed,74,86,89
+male,Limited Tutoring,Bachelor,YES,none,64,60,58
+female,Occasional Mentoring,High School,YES,completed,77,82,89
+male,Occasional Mentoring,Undergraduate,YES,none,58,50,45
+female,Standard School Support,High School,YES,completed,60,64,74
+male,Elite Academic Support,High School,YES,none,73,64,57
+female,Limited Tutoring,High School,YES,completed,75,82,79
+male,Occasional Mentoring,Associate,NO,completed,58,57,53
+female,Standard School Support,Associate,YES,none,66,77,73
+female,Private Coaching,High School,NO,none,39,52,46
+male,Standard School Support,Below High School,YES,none,64,58,51
+female,Occasional Mentoring,High School,NO,completed,23,44,36
+male,Occasional Mentoring,Undergraduate,NO,completed,74,77,76
+female,Private Coaching,Below High School,NO,completed,40,65,64
+male,Elite Academic Support,Post Graduate,YES,none,90,85,84
+male,Standard School Support,Post Graduate,YES,completed,91,85,85
+male,Private Coaching,High School,YES,none,64,54,50
+female,Standard School Support,High School,YES,none,59,72,68
+male,Private Coaching,Associate,YES,none,80,75,69
+male,Standard School Support,Post Graduate,YES,none,71,67,67
+female,Limited Tutoring,High School,YES,none,61,68,63
+female,Elite Academic Support,Undergraduate,YES,none,87,85,93
+male,Elite Academic Support,Below High School,YES,none,82,67,61
+male,Standard School Support,Below High School,YES,none,62,64,55
+female,Occasional Mentoring,Bachelor,YES,none,97,97,96
+male,Occasional Mentoring,Undergraduate,NO,none,75,68,65
+female,Standard School Support,Bachelor,YES,none,65,79,81
+male,Occasional Mentoring,High School,YES,completed,52,49,46
+male,Standard School Support,Associate,NO,none,87,73,72
+female,Standard School Support,Associate,YES,none,53,62,53
+female,Elite Academic Support,Post Graduate,NO,none,81,86,87
+male,Private Coaching,Bachelor,NO,completed,39,42,38
+female,Standard School Support,Undergraduate,YES,completed,71,71,80
+male,Standard School Support,Associate,YES,none,97,93,91
+male,Private Coaching,Undergraduate,YES,completed,82,82,88
+male,Standard School Support,High School,NO,none,59,53,52
+male,Occasional Mentoring,Associate,YES,none,61,42,41
+male,Elite Academic Support,Associate,NO,completed,78,74,72
+male,Standard School Support,Associate,NO,none,49,51,51
+male,Occasional Mentoring,High School,YES,none,59,58,47
+female,Standard School Support,Undergraduate,YES,completed,70,72,76
+male,Occasional Mentoring,Associate,YES,completed,82,84,78
+male,Elite Academic Support,Associate,NO,none,90,90,82
+female,Standard School Support,Bachelor,NO,none,43,62,61
+male,Standard School Support,Undergraduate,NO,none,80,64,66
+male,Private Coaching,Undergraduate,YES,none,81,82,84
+male,Standard School Support,Below High School,YES,none,57,61,54
+female,Private Coaching,Below High School,YES,none,59,72,80
+female,Private Coaching,Associate,YES,none,64,76,74
+male,Standard School Support,Bachelor,YES,completed,63,64,66
+female,Elite Academic Support,Bachelor,YES,completed,71,70,70
+female,Occasional Mentoring,High School,NO,none,64,73,71
+male,Private Coaching,Bachelor,NO,none,55,46,44
+female,Elite Academic Support,Associate,YES,none,51,51,54
+female,Standard School Support,Associate,YES,completed,62,76,80
+female,Elite Academic Support,Associate,YES,completed,93,100,95
+male,Standard School Support,High School,NO,none,54,72,59
+female,Private Coaching,Undergraduate,NO,none,69,65,74
+male,Private Coaching,High School,NO,none,44,51,48
+female,Elite Academic Support,Undergraduate,YES,completed,86,85,91
+female,Elite Academic Support,Associate,YES,none,85,92,85
+female,Limited Tutoring,Post Graduate,NO,none,50,67,73
+male,Private Coaching,Below High School,YES,completed,88,74,75
+female,Elite Academic Support,Associate,YES,none,59,62,69
+female,Elite Academic Support,Below High School,NO,none,32,34,38
+male,Occasional Mentoring,High School,NO,none,36,29,27
+female,Occasional Mentoring,Below High School,NO,completed,63,78,79
+male,Private Coaching,Associate,YES,completed,67,54,63
+female,Private Coaching,Below High School,YES,completed,65,78,82
+male,Private Coaching,Post Graduate,YES,none,85,84,89
+female,Standard School Support,Post Graduate,YES,none,73,78,74
+female,Limited Tutoring,High School,NO,completed,34,48,41
+female,Private Coaching,Bachelor,NO,completed,93,100,100
+female,Private Coaching,Below High School,NO,none,67,84,84
+male,Private Coaching,Undergraduate,YES,none,88,77,77
+male,Occasional Mentoring,High School,YES,none,57,48,51
+female,Private Coaching,Undergraduate,YES,completed,79,84,91
+female,Standard School Support,Bachelor,NO,none,67,75,72
+male,Elite Academic Support,Bachelor,YES,completed,70,64,70
+male,Private Coaching,Bachelor,NO,none,50,42,48
+female,Limited Tutoring,Undergraduate,YES,none,69,84,82
+female,Standard School Support,Bachelor,YES,completed,52,61,66
+female,Standard School Support,Bachelor,NO,completed,47,62,66
+female,Occasional Mentoring,Associate,NO,none,46,61,55
+female,Elite Academic Support,Undergraduate,YES,none,68,70,66
+male,Elite Academic Support,Bachelor,YES,completed,100,100,100
+female,Standard School Support,High School,YES,none,44,61,52
+female,Standard School Support,Associate,YES,completed,57,77,80
+male,Occasional Mentoring,Undergraduate,YES,completed,91,96,91
+male,Private Coaching,High School,NO,none,69,70,67
+female,Standard School Support,High School,NO,none,35,53,46
+male,Private Coaching,High School,YES,none,72,66,66
+female,Occasional Mentoring,Associate,NO,none,54,65,65
+male,Private Coaching,High School,NO,none,74,70,69
+male,Elite Academic Support,Below High School,YES,completed,74,64,60
+male,Elite Academic Support,Associate,NO,none,64,56,52
+female,Private Coaching,High School,NO,completed,65,61,71
+male,Elite Academic Support,Associate,NO,completed,46,43,44
+female,Standard School Support,Below High School,NO,none,48,56,51
+male,Standard School Support,Undergraduate,NO,completed,67,74,70
+male,Private Coaching,Undergraduate,NO,none,62,57,62
+male,Private Coaching,Associate,NO,completed,61,71,73
+male,Standard School Support,Bachelor,NO,completed,70,75,74
+male,Standard School Support,Associate,YES,completed,98,87,90
+male,Private Coaching,Undergraduate,NO,none,70,63,58
+male,Limited Tutoring,Associate,YES,none,67,57,53
+female,Elite Academic Support,High School,NO,none,57,58,57
+male,Private Coaching,Undergraduate,YES,completed,85,81,85
+male,Private Coaching,Below High School,YES,completed,77,68,69
+male,Standard School Support,Post Graduate,NO,completed,72,66,72
+female,Private Coaching,Post Graduate,YES,none,78,91,96
+male,Standard School Support,High School,YES,none,81,66,64
+male,Limited Tutoring,Below High School,NO,completed,61,62,61
+female,Occasional Mentoring,High School,YES,none,58,68,61
+female,Standard School Support,Associate,YES,none,54,61,58
+male,Occasional Mentoring,High School,YES,none,82,82,80
+female,Private Coaching,Undergraduate,NO,none,49,58,60
+male,Occasional Mentoring,Below High School,NO,completed,49,50,52
+female,Elite Academic Support,High School,NO,completed,57,75,73
+male,Elite Academic Support,High School,YES,none,94,73,71
+female,Private Coaching,Undergraduate,YES,completed,75,77,83
+female,Elite Academic Support,Below High School,NO,none,74,74,72
+male,Standard School Support,High School,YES,completed,58,52,54
+female,Standard School Support,Undergraduate,YES,none,62,69,69
+male,Elite Academic Support,Associate,YES,none,72,57,62
+male,Standard School Support,Undergraduate,YES,none,84,87,81
+female,Private Coaching,Post Graduate,YES,none,92,100,100
+female,Private Coaching,High School,YES,none,45,63,59
+male,Standard School Support,High School,YES,none,75,81,71
+female,Limited Tutoring,Undergraduate,YES,none,56,58,64
+female,Private Coaching,Below High School,NO,none,48,54,53
+female,Elite Academic Support,Associate,YES,none,100,100,100
+female,Standard School Support,Below High School,NO,completed,65,76,75
+male,Private Coaching,Undergraduate,YES,none,72,57,58
+female,Private Coaching,Undergraduate,YES,none,62,70,72
+male,Limited Tutoring,Below High School,YES,completed,66,68,64
+male,Standard School Support,Undergraduate,YES,none,63,63,60
+female,Elite Academic Support,Associate,YES,none,68,76,67
+female,Occasional Mentoring,Bachelor,YES,none,75,84,80
+female,Private Coaching,Bachelor,YES,none,89,100,100
+male,Standard School Support,Below High School,YES,completed,78,72,69
+female,Limited Tutoring,High School,NO,completed,53,50,60
+female,Private Coaching,Undergraduate,NO,none,49,65,61
+female,Limited Tutoring,Undergraduate,YES,none,54,63,67
+female,Standard School Support,Undergraduate,YES,completed,64,82,77
+male,Occasional Mentoring,Undergraduate,NO,completed,60,62,60
+male,Standard School Support,Associate,YES,none,62,65,58
+male,Private Coaching,High School,YES,completed,55,41,48
+female,Standard School Support,Associate,YES,none,91,95,94
+female,Occasional Mentoring,High School,NO,none,8,24,23
+male,Private Coaching,Below High School,YES,none,81,78,78
+male,Occasional Mentoring,Below High School,YES,completed,79,85,86
+female,Limited Tutoring,Undergraduate,YES,completed,78,87,91
+female,Standard School Support,Below High School,YES,none,74,75,82
+male,Limited Tutoring,High School,YES,none,57,51,54
+female,Standard School Support,Associate,YES,none,40,59,51
+male,Elite Academic Support,Below High School,YES,completed,81,75,76
+female,Limited Tutoring,Below High School,NO,none,44,45,45
+female,Private Coaching,Undergraduate,NO,completed,67,86,83
+male,Elite Academic Support,High School,NO,completed,86,81,75
+female,Occasional Mentoring,Below High School,YES,completed,65,82,78
+female,Private Coaching,Associate,NO,none,55,76,76
+female,Private Coaching,Bachelor,NO,none,62,72,74
+male,Limited Tutoring,High School,YES,none,63,63,62
+female,Elite Academic Support,Post Graduate,YES,completed,88,99,95
+male,Standard School Support,High School,NO,none,62,55,55
+female,Standard School Support,High School,NO,completed,59,71,65
+female,Private Coaching,Undergraduate,YES,completed,68,78,77
+female,Private Coaching,Undergraduate,NO,none,77,86,86

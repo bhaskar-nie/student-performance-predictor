@@ -31,7 +31,7 @@ The project trained and evaluated several models:
 - K-Nearest Neighbors
 
 #### **Chosen Model**: **Linear Regression**
-- Achieved an accuracy of **88% (R² score)**.
+- Achieved an accuracy of **93.7% (R² score)**.
 - Selected for its simplicity, speed, and interpretability.
 
 ### **Model Evaluation**
