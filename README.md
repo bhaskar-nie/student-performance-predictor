@@ -175,5 +175,31 @@ Please refer to the uploaded PDF (`API_Testing_Documentation.pdf`) in the reposi
 
 ---
 
-## **8. Conclusion**
+## **8. Troubleshooting**
+
+### **Scikit-learn Version Compatibility**
+If you encounter errors like `AttributeError: Can't get attribute '_RemainderColsList'`, this indicates a scikit-learn version mismatch between the saved models and your current environment.
+
+**Solution:**
+1. Run the model retraining script:
+   ```bash
+   python retrain_models.py
+   ```
+2. This will retrain all models with your current scikit-learn version and save them properly.
+
+### **Model Retraining**
+The `retrain_models.py` script is provided to:
+- Retrain all models (Linear Regression, Random Forest, Decision Tree, K-Neighbors)
+- Save them with your current scikit-learn version
+- Test that models load correctly
+- Maintain the same performance metrics
+
+**When to use:**
+- After updating scikit-learn
+- When moving to a different environment
+- If you encounter pickle/dill loading errors
+
+---
+
+## **9. Conclusion**
 This project demonstrates the use of machine learning and Flask for a practical problem in education. It provides a robust and user-friendly interface for predicting student performance, with potential applications in personalized learning and academic intervention strategies.

@@ -1,5 +1,6 @@
 import os
 import dill
+import pickle
 from sklearn.model_selection import GridSearchCV
 from sklearn.metrics import r2_score
 
@@ -39,7 +40,22 @@ def evaluate_models(X_train, y_train, X_test, y_test, models, param):
 
 def load_object(file_path):
     """
-    Load a saved object from the specified file path using dill.
+    Load a saved object from the specified file path using dill or pickle.
+    Tries both methods to handle different serialization formats.
     """
-    with open(file_path, "rb") as file_obj:
-        return dill.load(file_obj)
+    try:
+        # First try loading with pickle (standard method used in training)
+        with open(file_path, "rb") as file_obj:
+            return pickle.load(file_obj)
+    except Exception as pickle_error:
+        try:
+            # If pickle fails, try dill
+            with open(file_path, "rb") as file_obj:
+                return dill.load(file_obj)
+        except Exception as dill_error:
+            # If both fail, raise a more informative error
+            raise Exception(f"Failed to load object from {file_path}. "
+                          f"Pickle error: {str(pickle_error)}. "
+                          f"Dill error: {str(dill_error)}. "
+                          f"This might be due to scikit-learn version incompatibility. "
+                          f"Consider retraining the models with the current sklearn version.")
